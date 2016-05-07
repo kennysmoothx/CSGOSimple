@@ -4,6 +4,7 @@
 
 #include "Color.hpp"
 #include "IAppSystem.hpp"
+#include "Vector2D.hpp"
 
 namespace SourceEngine
 {
